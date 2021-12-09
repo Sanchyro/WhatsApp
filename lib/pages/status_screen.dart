@@ -6,7 +6,7 @@ class StatusScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    Container(
+    return Container(
         color: const Color(0xfff2f2f2),
         child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
